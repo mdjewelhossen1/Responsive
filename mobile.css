@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+    
+}
+h1{
+    text-align: center;
+    background-color: coral;
+    font-size: 40px;
+    
+}
+h2{
+    background-color: violet;
+    width: 120px;
+}
+p{
+    background-color: tomato;
+
+}

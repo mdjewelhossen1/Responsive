@@ -1,0 +1,16 @@
+body{
+    background-color: turquoise;
+}
+h1{
+    text-align: center;
+    background-color: darkorange;
+    font-size: 30px;
+}
+h2{
+    background-color: deeppink;
+    width: 120px;
+
+}
+p{
+    background-color: plum;
+}
